@@ -602,6 +602,26 @@ video {
   top: 10vh;
 }
 
+.-bottom-\[20vh\] {
+  bottom: -20vh;
+}
+
+.-bottom-\[25vh\] {
+  bottom: -25vh;
+}
+
+.-bottom-\[28vh\] {
+  bottom: -28vh;
+}
+
+.-bottom-\[30vh\] {
+  bottom: -30vh;
+}
+
+.bottom-\[12vh\] {
+  bottom: 12vh;
+}
+
 .z-50 {
   z-index: 50;
 }
@@ -1136,6 +1156,10 @@ video {
     bottom: -70vh;
   }
 
+  .sm\:-bottom-\[28vh\] {
+    bottom: -28vh;
+  }
+
   .sm\:block {
     display: block;
   }
@@ -1156,6 +1180,10 @@ video {
 
   .md\:-bottom-\[12dvh\] {
     bottom: -12dvh;
+  }
+
+  .md\:-bottom-\[12vh\] {
+    bottom: -12vh;
   }
 
   .md\:mb-3 {
