@@ -644,6 +644,10 @@ video {
   top: 10vh;
 }
 
+.-bottom-\[36vh\] {
+  bottom: -36vh;
+}
+
 .z-50 {
   z-index: 50;
 }
@@ -760,12 +764,12 @@ video {
   margin-top: 1rem;
 }
 
-.mt-52 {
-  margin-top: 13rem;
-}
-
 .mt-6 {
   margin-top: 1.5rem;
+}
+
+.mt-60 {
+  margin-top: 15rem;
 }
 
 .mt-8 {
@@ -774,6 +778,14 @@ video {
 
 .mt-\[2px\] {
   margin-top: 2px;
+}
+
+.mt-64 {
+  margin-top: 16rem;
+}
+
+.mt-72 {
+  margin-top: 18rem;
 }
 
 .block {
