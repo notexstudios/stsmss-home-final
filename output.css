@@ -622,6 +622,10 @@ video {
   bottom: 12vh;
 }
 
+.-bottom-\[30dvh\] {
+  bottom: -30dvh;
+}
+
 .z-50 {
   z-index: 50;
 }
@@ -820,6 +824,10 @@ video {
 
 .justify-end {
   justify-content: flex-end;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .justify-between {
